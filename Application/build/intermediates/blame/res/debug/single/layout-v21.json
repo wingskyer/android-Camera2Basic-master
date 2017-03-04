@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\AndroidApps\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\XFImaging\\.android\\build-cache\\bf30606d5a367bd4f5bc6215363acd389868ba4c\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\AndroidApps\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\XFImaging\\.android\\build-cache\\bf30606d5a367bd4f5bc6215363acd389868ba4c\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\AndroidApps\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\XFImaging\\.android\\build-cache\\bf30606d5a367bd4f5bc6215363acd389868ba4c\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\AndroidApps\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\XFImaging\\.android\\build-cache\\bf30606d5a367bd4f5bc6215363acd389868ba4c\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]
